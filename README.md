@@ -22,10 +22,10 @@ Add the JitPack repository to your `pom.xml`:
 Then, add the dependency:
 
 ```xml
-<dependency>
+	<dependency>
     <groupId>com.github.SolarityMC</groupId>
     <artifactId>solaritychat-api</artifactId>
-    <version>LATEST</version> <!-- Or a specific version -->
+    <version>1.0</version>
 </dependency>
 ```
 
